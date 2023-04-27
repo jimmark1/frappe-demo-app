@@ -1,7 +1,1 @@
-## Library Management
-
-Library Management
-
-#### License
-
-MIT
+A simple prototype LMS built Frappe Framework (Python Framework)
